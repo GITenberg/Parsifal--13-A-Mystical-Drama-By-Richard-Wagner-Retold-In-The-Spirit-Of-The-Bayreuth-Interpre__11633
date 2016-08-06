@@ -1,0 +1,39 @@
+_repo: Parsifal--13-A-Mystical-Drama-By-Richard-Wagner-Retold-In-The-Spirit-Of-The-Bayreuth-Interpre__11633
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Huckel, Oliver
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '4054'
+    url: http://www.gutenberg.org/2009/agents/4054
+  - agent_name: Wagner, Richard
+    aliases:
+    - Wagner, Wilhelm Richard
+    - Drach, Wilhelm
+    - Wagner, R. (Richard)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Perceval (Legendary character) -- Drama'
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcc 'ML'
+- GITenberg
+title: "Parsifal\r\nA Mystical Drama By Richard Wagner Retold In The Spirit Of The\
+  \ Bayreuth Interpretation"
+url: http://www.gutenberg.org/ebooks/11633
